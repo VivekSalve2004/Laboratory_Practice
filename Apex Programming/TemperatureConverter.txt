@@ -1,0 +1,11 @@
+public class TempConvert {
+    public static void convert(Decimal celsius){
+        Decimal f = 0;
+        f = 32 + (1.8 * celsius);
+        System.debug('Temperature in °C is: '+celsius);
+        System.debug('Temperature in °F is: '+f);
+    }
+}
+
+TempConvert t = new TempConvert();
+t.convert(37);
