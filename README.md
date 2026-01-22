@@ -50,11 +50,11 @@ g++ <filename>.cpp -o output
 
 ---
 
-👨‍💻 Author
-Vivek Salve Computer Science Student | Linux System Programming Enthusiast
+👨‍💻 Author - 
+Vivek Salve 
 
 GitHub: @VivekSalve2004
 
 Email: viveksalve04@gmail.com
 
-Note: This repository is maintained as part of the Savitribai Phule Pune University (SPPU) TE Computer Engineering Curriculum (2025-26).
+### Note: This repository is maintained as part of the Savitribai Phule Pune University (SPPU) TE Computer Engineering Curriculum (2025-26).
