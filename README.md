@@ -57,6 +57,6 @@ GitHub: @VivekSalve2004
 
 Email: viveksalve04@gmail.com
 
-Portfolio: Visit My Portfol
+Portfolio: Visit My 
 
 Note: This repository is maintained as part of the Savitribai Phule Pune University (SPPU) TE Computer Engineering Curriculum (2025-26).
