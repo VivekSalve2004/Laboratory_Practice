@@ -50,7 +50,7 @@ g++ <filename>.cpp -o output
 
 ---
 
-👨‍💻 Author - 
+👨‍💻 ### Author - 
 Vivek Salve 
 
 GitHub: @VivekSalve2004
